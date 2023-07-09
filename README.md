@@ -14,6 +14,8 @@ To download Whisper encoder used in training run `download_whisper.py`.
 Download appropriate datasets:
 * [ASVspoof2021 DF subset](https://zenodo.org/record/4835108),
 * [In-The-Wild dataset](https://deepfake-demo.aisec.fraunhofer.de/in_the_wild).
+* [arabic-tacotron-tts](https://github.com/youssefsharief/arabic-tacotron-tts.git)
+* [Arabic Speech Corpus](http://en.arabicspeechcorpus.com/)
 
 
 ### Dependencies
